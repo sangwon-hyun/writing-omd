@@ -1,0 +1,3 @@
+#+Title: Manuscript for the Ocean Mover's Distance paper 
+ 
+One tex file ~paper.tex~ for now.
